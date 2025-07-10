@@ -1,16 +1,30 @@
-run = "vite"
-entrypoint = "index.html"
-hidden = [".config"]
-modules = ["nodejs-18", "web"]
+# Replit configuration file
 
-[nix]
-channel = "stable-23_05"
+run = "python3 bbc_live_fetch.py"
+entrypoint = "bbc_live_fetch.py"
+
+# Enable the use of the Nix environment
+language = "python3"
+onBoot = "echo 'Environment is ready.'"
+
+# Hidden files/directories
+hidden = [".config", "__pycache__"]
+
+# Optional enhancements
+[packager]
+language = "python"
+
+[env]
+FLASK_ENV = "development"
+PORT = "3000"
+HOST = "0.0.0.0"
 
 [deployment]
-deploymentTarget = "static"
-build = ["npm", "run", "build"]
-publicDir = "dist"
+deploymentTarget = "gcs"
 
-[[ports]]
-localPort = 5173
-externalPort = 80
+[interpreter]
+command = ["python3", "-u"]
+
+[debugger]
+enabled = true
+support = true
