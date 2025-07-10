@@ -1,16 +1,38 @@
-run = "vite"
-entrypoint = "index.html"
-hidden = [".config"]
-modules = ["nodejs-18", "web"]
+from flask import Flask, jsonify
+import feedparser
+import requests
 
-[nix]
-channel = "stable-23_05"
+app = Flask(__name__)
 
-[deployment]
-deploymentTarget = "static"
-build = ["npm", "run", "build"]
-publicDir = "dist"
+@app.route('/bbc')
+def get_bbc_news():
+    try:
+        feed_url = "http://feeds.bbci.co.uk/news/rss.xml"
+        feed = feedparser.parse(feed_url)
+        news_list = []
 
-[[ports]]
-localPort = 5173
-externalPort = 80
+        for entry in feed.entries[:10]:
+            image_url = ""
+            if "media_content" in entry:
+                image_url = entry.media_content[0]['url']
+            elif "media_thumbnail" in entry:
+                image_url = entry.media_thumbnail[0]['url']
+
+            news_item = {
+                "title": entry.title,
+                "link": entry.link,
+                "published": entry.published,
+                "summary": entry.summary,
+                "thumbnail": image_url
+            }
+            news_list.append(news_item)
+
+        return jsonify(news_list)
+
+    except Exception as e:
+        print("Error:", e)
+        return jsonify({"error": str(e)}), 500
+
+# Run server
+if __name__ == '__main__':
+    app.run(host='0.0.0.0', port=3000)
