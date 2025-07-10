@@ -1,16 +1,3 @@
-run = "vite"
-entrypoint = "index.html"
-hidden = [".config"]
-modules = ["nodejs-18", "web"]
-
-[nix]
-channel = "stable-23_05"
-
-[deployment]
-deploymentTarget = "static"
-build = ["npm", "run", "build"]
-publicDir = "dist"
-
-[[ports]]
-localPort = 5173
-externalPort = 80
+run = "python3 bbc_live_fetch.py & vite"
+language = "python3"
+entrypoint = "bbc_live_fetch.py"
