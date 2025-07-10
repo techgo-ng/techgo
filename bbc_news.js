@@ -2,7 +2,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const refreshBtn = document.getElementById("refreshBtn");
 
   function loadNews() {
-    fetch("bbc_news.json")
+    fetch("https://exactnews.onrender.com/bbc")
       .then(response => {
         if (!response.ok) throw new Error("Failed to load JSON");
         return response.json();
@@ -12,33 +12,28 @@ document.addEventListener("DOMContentLoaded", () => {
         let existing = document.querySelector(".news-section");
         if (existing) existing.remove();
 
-        // Create main container
+        // Main container
         const root = document.createElement("div");
         root.className = "news-section";
         document.body.appendChild(root);
-
-        // Heading
-        const heading = document.createElement("h1");
-        heading.textContent = "📰 Top Stories - BBC News";
-        root.appendChild(heading);
 
         // Grid container
         const container = document.createElement("div");
         container.className = "news-grid";
         root.appendChild(container);
 
-        // Loop through each news item
+        // Loop through news items
         data.forEach(item => {
           const card = document.createElement("div");
           card.className = "news-card";
 
-          // 🖼 Image
+          // Thumbnail or fallback
           const image = document.createElement("img");
           image.src = item.image || "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif";
           image.alt = "News thumbnail";
           card.appendChild(image);
 
-          // 📄 Content
+          // Content block
           const content = document.createElement("div");
           content.className = "news-card-content";
 
@@ -67,7 +62,7 @@ document.addEventListener("DOMContentLoaded", () => {
       .catch(error => console.error("Error loading news:", error));
   }
 
-  // Format the date
+  // Format dates
   function formatDate(raw) {
     if (!raw) return "Unknown";
     const date = new Date(raw);
@@ -78,12 +73,12 @@ document.addEventListener("DOMContentLoaded", () => {
     });
   }
 
-  // Run when page loads
+  // Run once on page load
   loadNews();
 
-  // Refresh every 10 minutes
+  // Auto refresh every 10 minutes (600000 ms)
   setInterval(loadNews, 600000);
 
-  // Manual refresh on button click
+  // Manual refresh
   refreshBtn.addEventListener("click", loadNews);
 });

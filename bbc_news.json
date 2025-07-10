@@ -1,10 +1,87 @@
 [
     {
-        "title": "Trump threatens tariffs on 14 countries from August",
+        "title": "Hamas used sexual violence as part of 'genocidal strategy', Israeli experts say",
+        "link": "https://www.bbc.com/news/articles/c1mz8gxzg82o",
+        "published": "Tue, 08 Jul 2025 09:46:33 GMT",
+        "summary": "The Dinah Project, an all-women group, lays out \"a legal blueprint for prosecuting these crimes\", which Hamas has denied committing.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd41/live/abbd5bc0-5bb4-11f0-a40e-a1af2950b220.jpg"
+    },
+    {
+        "title": "Israeli defence minister plans to move Gaza's population to camp in Rafah",
+        "link": "https://www.bbc.com/news/articles/c8rp31lk7mzo",
+        "published": "Tue, 08 Jul 2025 10:33:24 GMT",
+        "summary": "Israel Katz tells Israeli media the so-called \"humanitarian city\" in Rafah will eventually house 2.1 million Palestinians.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b6cf/live/dd8d4b20-5bb8-11f0-b5c5-012c5796682d.jpg"
+    },
+    {
+        "title": "Trump upbeat on Gaza ceasefire talks despite lack of breakthrough",
+        "link": "https://www.bbc.com/news/articles/c2k14n9d8y9o",
+        "published": "Tue, 08 Jul 2025 12:22:25 GMT",
+        "summary": "The US president said talk were going \"very well\", but a Palestinian source tells the BBC they have not made headway.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae6a/live/2e18d840-5b8a-11f0-b5c5-012c5796682d.jpg"
+    },
+    {
+        "title": "US delays higher tariffs but announces new taxes for some countries",
         "link": "https://www.bbc.com/news/articles/cd0vkl31085o",
-        "published": "Mon, 07 Jul 2025 21:43:18 GMT",
-        "summary": "President Trump says the US will impose a raft of import taxes on 14 countries after delaying his Liberation Day tariffs.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/812a/live/db86b610-5b52-11f0-822b-7528a5a0a95d.jpg"
+        "published": "Tue, 08 Jul 2025 03:59:26 GMT",
+        "summary": "Trump says the US will impose a raft of levies after pausing his Liberation Day tariffs.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd5f/live/d31ea350-5ba4-11f0-a40e-a1af2950b220.jpg"
+    },
+    {
+        "title": "Chef's food decoration at Chinese pre-school poisons 233 children",
+        "link": "https://www.bbc.com/news/articles/cy4n7wn8l58o",
+        "published": "Tue, 08 Jul 2025 09:03:12 GMT",
+        "summary": "The kindergarten students are being treated in hospital after eating food with inedible paint.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ef6/live/64ef6e60-5bd5-11f0-84a3-9b39642a4f3b.jpg"
+    },
+    {
+        "title": "Acropolis closes as heatwave grips Greece",
+        "link": "https://www.bbc.com/news/articles/cy8g41ljjjno",
+        "published": "Tue, 08 Jul 2025 13:12:36 GMT",
+        "summary": "The popular Athens attraction is shutting temporarily as highs of 42C are forecast for parts of the country.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cdd/live/1902c4f0-5bdc-11f0-a40e-a1af2950b220.jpg"
+    },
+    {
+        "title": "First malaria treatment for babies approved for use",
+        "link": "https://www.bbc.com/news/articles/c89e872jdjxo",
+        "published": "Tue, 08 Jul 2025 05:15:08 GMT",
+        "summary": "Until now, there had only been drugs for older children which carried an overdose risk for the young.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d49/live/fd791190-5bdf-11f0-9176-c710c4836875.jpg"
+    },
+    {
+        "title": "Texas floods death toll climbs to at least 107",
+        "link": "https://www.bbc.com/news/articles/c0j4eq517qyo",
+        "published": "Tue, 08 Jul 2025 16:52:45 GMT",
+        "summary": "Search and rescue teams have been wading through mud-piled riverbanks for a fourth day as more flash floods threaten the region.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c13/live/54327070-5c31-11f0-b5c5-012c5796682d.jpg"
+    },
+    {
+        "title": "Bee attack injures several dozen in France",
+        "link": "https://www.bbc.com/news/articles/cgk3epvvgpyo",
+        "published": "Tue, 08 Jul 2025 15:00:29 GMT",
+        "summary": "Twenty-four people were stung, with a witness describing how \"very panicked people\" tried to bat off the bees.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9a5/live/b03929a0-5be5-11f0-b5c5-012c5796682d.jpg"
+    },
+    {
+        "title": "Trump says Ukraine will receive more weapons after US pause on shipments",
+        "link": "https://www.bbc.com/news/articles/c8d6yrd798no",
+        "published": "Tue, 08 Jul 2025 08:07:06 GMT",
+        "summary": "The US president says he is \"not happy\" with Russia's Vladimir Putin and that Ukraine is \"getting hit very hard\".",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea26/live/1a99acb0-5b9c-11f0-b5c5-012c5796682d.jpg"
+    },
+    {
+        "title": "200 million year-old flying reptile species found",
+        "link": "https://www.bbc.com/news/articles/cqx2zzn53pqo",
+        "published": "Mon, 07 Jul 2025 19:00:45 GMT",
+        "summary": "The newly discovered flying reptile is the oldest pterosaur in North America.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36e5/live/8d9c2cb0-5b4c-11f0-a40e-a1af2950b220.jpg"
+    },
+    {
+        "title": "Indonesian volcano spews massive ash cloud as it erupts again",
+        "link": "https://www.bbc.com/news/articles/cj3r8v13zrro",
+        "published": "Tue, 08 Jul 2025 05:44:59 GMT",
+        "summary": "Following a series of eruptions three weeks ago, Mount Lewotobi Laki-laki has begun spewing hot ash and lava again.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/769d/live/37874090-5bbe-11f0-960d-e9f1088a89fe.jpg"
     },
     {
         "title": "Russian minister sacked by Putin found dead",
@@ -18,7 +95,7 @@
         "link": "https://www.bbc.com/news/articles/c8xvd4jd0wvo",
         "published": "Mon, 07 Jul 2025 16:35:37 GMT",
         "summary": "Keith Siegel urged the US president to pressure both Israel and Hamas to agree a new ceasefire and hostage release deal.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4de8/live/b975d040-5b2c-11f0-a40e-a1af2950b220.jpg"
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b5a5/live/814082e0-5bf1-11f0-a40e-a1af2950b220.jpg"
     },
     {
         "title": "Trump accuses Brazil of 'witch hunt' against Bolsonaro",
@@ -42,101 +119,45 @@
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c1f0/live/175933e0-5b3d-11f0-b5c5-012c5796682d.jpg"
     },
     {
-        "title": "Mushroom murders and cancer lie: Nine weeks of evidence that gripped a courtroom",
-        "link": "https://www.bbc.com/news/articles/cdx554n1x0wo",
-        "published": "Mon, 07 Jul 2025 05:48:41 GMT",
-        "summary": "Erin Patterson's conviction ends a monthslong trial full of dramatic allegations.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6547/live/eee30010-5b2f-11f0-b5c5-012c5796682d.jpg"
+        "title": "How King Charles will help rebuild the shaken UK-France friendship during the state visit",
+        "link": "https://www.bbc.com/news/articles/cyvjg41e6mzo",
+        "published": "Mon, 07 Jul 2025 23:01:10 GMT",
+        "summary": "There are high hopes for Macron's three-day visit, but how close can the nations really become given past mistrust over Brexit negotiations?",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a02/live/f1d2b910-5b47-11f0-a40e-a1af2950b220.png"
     },
     {
-        "title": "At least 11 dead in Kenya protests as central Nairobi sealed off",
-        "link": "https://www.bbc.com/news/articles/c78n397gzjpo",
-        "published": "Mon, 07 Jul 2025 19:36:04 GMT",
-        "summary": "Police say at least 11 people were killed - as a doctor tells the BBC protesters taken to hospital died of gunshot wounds.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf50/live/4280b5c0-5b2e-11f0-bbd5-0d5cb6c84155.jpg"
+        "title": "Did US government cuts contribute to the Texas tragedy?",
+        "link": "https://www.bbc.com/news/articles/clyndrwz00xo",
+        "published": "Mon, 07 Jul 2025 21:35:06 GMT",
+        "summary": "Following the Texas floods some Democrats have warned about the \"consequences\" of President Trump's cuts to the federal workforce.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c150/live/33a201a0-5b72-11f0-a40e-a1af2950b220.png"
     },
     {
-        "title": "South Africa's police minister accused of links to criminal gangs",
-        "link": "https://www.bbc.com/news/articles/cx205ykppdjo",
-        "published": "Mon, 07 Jul 2025 13:06:32 GMT",
-        "summary": "President Cyril Ramaphosa says the explosive claims are \"receiving the highest priority attention\"",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/85b6/live/971555c0-5b04-11f0-8aaf-0989f4bb0fce.jpg"
+        "title": "'Everyone knows somebody affected': The small towns in shock after mushroom murders",
+        "link": "https://www.bbc.com/news/articles/c4g8zr16y21o",
+        "published": "Mon, 07 Jul 2025 22:03:08 GMT",
+        "summary": "The residents of the rural area in Australia where Erin Patterson carried out her crimes are still in shock.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c07/live/e61bbee0-5b98-11f0-b5c5-012c5796682d.jpg"
     },
     {
-        "title": "Netanyahu visits US as Trump puts pressure to agree Gaza ceasefire deal",
-        "link": "https://www.bbc.com/news/articles/cy4ypze027ro",
-        "published": "Mon, 07 Jul 2025 05:17:39 GMT",
-        "summary": "Israel's prime minister is under pressure from Donald Trump and people at home to agree a new ceasefire and hostage release deal.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2081/live/93ad3710-5aad-11f0-960d-e9f1088a89fe.jpg"
+        "title": "The doctor fighting for women's health on Ukraine's front line",
+        "link": "https://www.bbc.com/news/articles/c4gezrz5gwyo",
+        "published": "Mon, 07 Jul 2025 23:06:00 GMT",
+        "summary": "Dr Baksheiev, a gynaecologist, travels to front-line areas in his kitted out mobile clinic.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69a1/live/96e3d7f0-5b24-11f0-960d-e9f1088a89fe.jpg"
     },
     {
-        "title": "Methane gas kills 12 Turkish soldiers in Iraq operation",
-        "link": "https://www.bbc.com/news/articles/cgq7z10lxneo",
-        "published": "Mon, 07 Jul 2025 11:32:50 GMT",
-        "summary": "They were searching a cave to recover the body of a comrade who had been shot in 2022.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9254/live/910d8de0-5b19-11f0-a40e-a1af2950b220.jpg"
+        "title": "From India to Britain and back: The cartoonist who fought censors with a smile",
+        "link": "https://www.bbc.com/news/articles/c784lz5lky8o",
+        "published": "Mon, 07 Jul 2025 20:46:06 GMT",
+        "summary": "Abu Abraham’s sharp cartoons exposed power’s excesses during India’s 1975 Emergency crackdown.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f75e/live/3c6483a0-5bd4-11f0-960d-e9f1088a89fe.jpg"
     },
     {
-        "title": "Israel says it struck Houthi-held ports and cargo ship in Yemen",
-        "link": "https://www.bbc.com/news/articles/ce9xdlxp1x7o",
-        "published": "Mon, 07 Jul 2025 13:21:33 GMT",
-        "summary": "The Israeli military says the strikes were a response to attacks by the Houthis, who later launched two missiles towards Israel and the occupied West Bank.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/39d6/live/f0c07870-5ac8-11f0-a40e-a1af2950b220.jpg"
-    },
-    {
-        "title": "Trump calls Musk's new political party 'ridiculous'",
-        "link": "https://www.bbc.com/news/articles/cy4n09lpz41o",
-        "published": "Mon, 07 Jul 2025 03:17:15 GMT",
-        "summary": "The US president and Tesla boss were close allies before a dramatic falling out in recent weeks.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36a6/live/cb47ac80-5ac3-11f0-8880-29bac409ea3b.jpg"
-    },
-    {
-        "title": "Inquest finds police officer who shot Aboriginal teen was racist",
-        "link": "https://www.bbc.com/news/articles/c62gep5ld77o",
-        "published": "Mon, 07 Jul 2025 08:58:17 GMT",
-        "summary": "Kumanjayi Walker, 19, was shot three times by Constable Zachary Rolfe in Australia in 2019.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28f7/live/b6da7070-5b22-11f0-960d-e9f1088a89fe.jpg"
-    },
-    {
-        "title": "At least 11 dead in Kenya protests as central Nairobi sealed off",
-        "link": "https://www.bbc.com/news/articles/c78n397gzjpo",
-        "published": "Mon, 07 Jul 2025 19:36:04 GMT",
-        "summary": "Police say at least 11 people were killed - as a doctor tells the BBC protesters taken to hospital died of gunshot wounds.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf50/live/4280b5c0-5b2e-11f0-bbd5-0d5cb6c84155.jpg"
-    },
-    {
-        "title": "Owners of escaped pet lion arrested after it attacks three people",
-        "link": "https://www.bbc.com/news/articles/c4ge9ze961eo",
-        "published": "Mon, 07 Jul 2025 05:52:37 GMT",
-        "summary": "Dramatic footage showed the big cat leaping over a concrete wall then pouncing on a woman in Pakistan.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0752/live/e4152ca0-5aec-11f0-960d-e9f1088a89fe.jpg"
-    },
-    {
-        "title": "Love Island USA's Cierra leaves show after racism row",
-        "link": "https://www.bbc.com/news/articles/cvg9krekqn2o",
-        "published": "Mon, 07 Jul 2025 09:48:13 GMT",
-        "summary": "Cierra Ortega's parents say it's been a \"painful\" week after posts emerged featuring a racial slur.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ea3/live/f950bb20-5b0f-11f0-a7cb-992f82c2d299.jpg"
-    },
-    {
-        "title": "Hamas security officer says group has lost control over most of Gaza",
-        "link": "https://www.bbc.com/news/articles/c4gk79xlzwjo",
-        "published": "Sun, 06 Jul 2025 16:13:59 GMT",
-        "summary": "The officer says Israeli strikes have devastated the group's leadership and structure, and that armed clans are filling the void.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c13c/live/82b62040-58ee-11f0-852a-fb4f43c1b4cc.jpg"
-    },
-    {
-        "title": "Archaeologists unveil 3,500-year-old city in Peru",
-        "link": "https://www.bbc.com/news/articles/c07dmx38kyeo",
-        "published": "Sun, 06 Jul 2025 13:31:40 GMT",
-        "summary": "Researchers believe Peñico served as a trading hub linking ancient Pacific coast communities with those living in the Andes and Amazon.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dcfb/live/c4da2190-5a62-11f0-bb7d-5f9bf28de527.jpg"
-    },
-    {
-        "title": "Young campers, teachers and football coach among Texas flood victims",
+        "title": "'Hero' dad, twin girls and riverside campers among Texas flood victims",
         "link": "https://www.bbc.com/news/articles/c5ygl8lpyyqo",
-        "published": "Mon, 07 Jul 2025 22:22:00 GMT",
-        "summary": "At least 95 lives were lost near the Guadalupe River after a deluge on Friday, authorities say.",
+        "published": "Tue, 08 Jul 2025 19:26:47 GMT",
+        "summary": "At least 107 lives were lost after a rapid deluge in the centre of the US state on Friday.",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce92/live/b39266d0-5b21-11f0-960d-e9f1088a89fe.jpg"
     },
     {
@@ -159,27 +180,6 @@
         "published": "Sun, 06 Jul 2025 23:03:10 GMT",
         "summary": "So heated was the criticism that creators quietly renamed the game Emotional Anti-Fraud Simulator.",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b0b/live/99b2ac30-58af-11f0-9074-8989d8c97d87.jpg"
-    },
-    {
-        "title": "Lena Dunham on fatphobia, dating advice and her new London rom-com",
-        "link": "https://www.bbc.com/news/articles/cd0vvgnj8rko",
-        "published": "Sun, 06 Jul 2025 23:12:27 GMT",
-        "summary": "Dunham's latest project is  a Netflix rom-com loosely based on her life over the last few years.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad3d/live/03806be0-58b8-11f0-9267-3d10d9c5c6de.jpg"
-    },
-    {
-        "title": "How Trump is using the 'Madman Theory' to try to change the world (and it's working)",
-        "link": "https://www.bbc.com/news/articles/czxww2kez0go",
-        "published": "Sat, 05 Jul 2025 23:09:17 GMT",
-        "summary": "Political scientists have a term for the tactic, that has been used by some leaders including Nixon, to persuade adversaries that they are temperamentally capable of anything, to extract concessions. But can it work in the long term?",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e1f/live/12bf5410-5695-11f0-b5c5-012c5796682d.png"
-    },
-    {
-        "title": "Guru Dutt: The tragic life of an Indian cinematic genius",
-        "link": "https://www.bbc.com/news/articles/cq8z7wwpg0jo",
-        "published": "Sat, 05 Jul 2025 23:08:37 GMT",
-        "summary": "This week marks the birth centenary of Guru Dutt, one of Bollywood's most iconic directors.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c981/live/fe1faeb0-58a6-11f0-9074-8989d8c97d87.jpg"
     },
     {
         "title": "Watch: Timelapse shows how suddenly Texas flood waters rose",
